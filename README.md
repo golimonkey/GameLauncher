@@ -14,3 +14,4 @@ Program generates game list from shortcuts and PNGs at startup.
 
 
 by GOLIMONKEY
+![Capture](https://user-images.githubusercontent.com/71722655/161323444-6283076c-6014-43c3-8072-244118c7c343.PNG)
