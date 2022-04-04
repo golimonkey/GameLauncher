@@ -14,6 +14,7 @@ You can also add and remove games with right click context menu and change icons
 The program generates a game list from shortcuts and PNGs at startup.
 
 
+
 by GOLIMONKEY
 
 ![Capture](https://user-images.githubusercontent.com/71722655/161393525-a299032e-5312-4a60-a9dd-a0f7bd8c47ad.PNG)
