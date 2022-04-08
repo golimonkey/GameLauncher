@@ -6,9 +6,10 @@ The program is portable.
 By default the program displays my games, I left them as an example.
 To customize the game list (it is very simple) you need to do the folowing:
 
-Put your shortcuts in the "Shortcuts" folder and icons for games/programs in the "PNGs" folder.
+You can add and remove games with right click context menu and change icons by selecting any .png image for any game.
+You can also put your windows shortcuts (hidden extension .lnk) in the "Shortcuts" folder and icons for games/programs 
+in the "PNGs" folderand program will add those at startup.
 Icons must have the same name as shortcuts and must also be in .png format.
-You can also add and remove games with right click context menu and change icons by selecting any .png image.
 
 The program generates a game list from shortcuts and PNGs at startup.
 
