@@ -12,6 +12,7 @@ Drag and drop game shortcuts onto a program.
 
 You can add, remove and rename games with right click context menu and change icons by selecting any .png image for any game.
 Games order can be customized by dragging and dropping the icons.
+
 .
 .
 .
