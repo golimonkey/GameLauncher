@@ -32,9 +32,27 @@ in the "PNGs" folder and program will add those at startup.
 
 ![Capture](https://user-images.githubusercontent.com/71722655/167211673-c0dfef15-8d7a-480f-94bc-3f81d2079eae.PNG)
 
-
+.
+.
+.
+.
 
 
 As of version 0.2.0 support for automatic DS4Windows controller profile switching is added. https://github.com/Ryochan7/DS4Windows
 
-by GOLIMONKEY
+.
+.
+.
+.
+
+![Capture](https://user-images.githubusercontent.com/71722655/214427724-5451c8fd-a27b-4d0d-918e-eab238b1d9ec.PNG)
+.
+.
+.
+.
+
+You can search for games if you have large library of games by just typing the name.
+
+
+By GOLIMONKEY
+
