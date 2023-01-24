@@ -51,7 +51,7 @@ As of version 0.2.0 support for automatic DS4Windows controller profile switchin
 .
 .
 
-You can search for games if you have large library of games by just typing the name.
+You can search for games if you have large library by just typing the name.
 
 
 By GOLIMONKEY
