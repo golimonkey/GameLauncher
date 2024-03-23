@@ -21,6 +21,8 @@ Games order can be customized by dragging and dropping the icons.
 Alternatively you can put your windows shortcuts (hidden extension .lnk) in the "Shortcuts" folder and icons for games/programs 
 in the "PNGs" folder and program will add those at startup.
 (Icons must have the same name as shortcuts and must also be in .png format.)
+Steam generated shortcuts are not classic windows shortcuts with .lnk extension, so they will not work by default (but you can make them work with bat script).
+They have extension .url and are in fact "internet shortcuts".
 
 .
 .
