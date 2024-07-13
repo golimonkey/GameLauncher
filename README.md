@@ -57,5 +57,6 @@ You can search for games if you have large library by just typing the name.
 
 
 Download link: https://github.com/golimonkey/GameLauncher/releases/download/0.3.8/Game.Launcher.0.3.8.7z
+
 By GOLIMONKEY
 
