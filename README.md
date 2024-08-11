@@ -1,4 +1,4 @@
-# Game-Launcher
+# Game Launcher
 A simple and fast game launcher for Windows 7,8,10,11 made in [Godot](https://godotengine.org/) (gdscript). (The program is portable.)
 
 By default the program displays my games, I left them as an example.
